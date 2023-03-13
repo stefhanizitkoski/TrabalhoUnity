@@ -25,6 +25,12 @@ Feito isso, já pode fazer o Download do banco de dados (target+features).
 <img src="img/qrcode.png" width="400" height="400">
 </p>
 
+####  TARGET
+
+<p align="center">
+<img src="img/qrcode2.png" width="400" height="400">
+</p>
+
 #### Primeiros Passos:
 
 
